@@ -1,0 +1,86 @@
+html {
+  height: 100%;
+}
+
+
+body {
+  background-color: rgb(34, 31, 31);
+  background-image: url(images/hands_service_food_bowls\ 1.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+}
+header{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 24px;
+  color: beige;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.336);
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  
+  
+} 
+main {
+  height: 400px;
+  text-align: center;
+  padding-top: 80px;
+  padding-left: 240px;
+  padding-right: 240px;
+}
+p{
+  background-color: rgba(0, 0, 0, 0.336);
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  
+}
+footer {
+  background-color: rgba(0, 0, 0, 0.582);
+  height: 100px;
+}
+h1 {
+  font-size: 84px;
+  color: beige;
+  /*that or this*/
+}
+p {
+  font-size:18px ;
+  color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  font-size: 18px;
+  color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  text-underline-position: under;
+  /*text-decoration: none;*/
+}
+nav a {
+  text-decoration:none ;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+footer p {
+  text-align: center;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.maps{
+  padding-bottom: 50px;
+  padding-right: 30%;
+  padding-left: 10%;
+ 
+}

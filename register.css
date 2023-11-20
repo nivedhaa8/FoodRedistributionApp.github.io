@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"poppins",sans-serif;
+}
+body{
+        background-color: rgb(34, 31, 31);
+        background-image: url(images/hands_service_food_bowls\ 1.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    
+    
+}
+.wrapper {
+    width: 750px;
+    background: rgba(0, 0, 0, 0.336);
+    border-radius: 10px;
+    color: black;
+
+}
+h2{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

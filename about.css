@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+  }
+  
+  
+  body {
+    background-color: rgb(34, 31, 31);
+    background-image: url(images/hands_service_food_bowls\ 1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 24px;
+    color:burlywood;
+  }
+  main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+  }
+  h1{
+        font-size:50px ;
+        color: aliceblue;
+        font-family: Arial, Helvetica, sans-serif;
+  }
+  p {
+    font-size:18px ;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  p{
+    background-color: rgba(0, 0, 0, 0.336);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    
+  }
+  
